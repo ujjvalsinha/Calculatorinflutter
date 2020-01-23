@@ -10,7 +10,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  String result="df";
+  String result="";
   double resultsize=78.0;
   String eq="";
   double eqsize=58.0;
